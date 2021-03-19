@@ -46,6 +46,10 @@ figcaption {
   text-align: center;
 }
 
+.germination {
+  font-size: 1.5rem;
+}
+
 .BEETS {
   font-style: italic;
   font-size: 1.5rem;
@@ -65,6 +69,11 @@ main ol li {
 }
 
 main dl dt {
-  color: #black;
+  color: #222;
   font-weight: bold;
+}
+
+footer a{
+  color: #8f2440;
+  text-decoration: none;
 }
