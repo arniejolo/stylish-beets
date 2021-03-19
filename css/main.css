@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Serif',serif;
   background-color: #c9b5ab;
 }
 
@@ -13,5 +13,26 @@ font-family: 'PT Serif', serif;
 */
 
 h1 {
+  font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+}
+
+main h2 {
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
+}
+
+aside h2 {
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
+}
+
+header nav ol {
+  list-style-type: none;
+  font-family: 'PT Sans', sans-serif;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
 }
