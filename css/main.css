@@ -60,3 +60,11 @@ figcaption {
 main ol li {
   list-style-type: lower-greek;
 }
+.amount-of-beets {
+  font-style: italic;
+}
+
+main dl dt {
+  color: #black;
+  font-weight: bold;
+}
