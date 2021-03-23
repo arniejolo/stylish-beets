@@ -17,6 +17,10 @@ h1 {
   color: #3f1622;
 }
 
+img {
+  width: 100%;
+}
+
 main h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
@@ -52,7 +56,7 @@ figcaption {
   font-size: 1.5rem;
 }
 
-.BEETS {
+.beets {
   font-style: italic;
   font-size: 1.5rem;
   text-align: left;
@@ -86,7 +90,7 @@ footer a{
   font-size: 1.125rem;
 }
 
-.Jim {
+.jim {
   font-size: 1.125rem;
 }
 
