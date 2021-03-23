@@ -20,11 +20,13 @@ h1 {
 main h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+  font-style: normal;
 }
 
 aside h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+  font-style: normal;
 }
 
 header nav ol {
@@ -63,6 +65,7 @@ figcaption {
 
 main ol li {
   list-style-type: lower-greek;
+  font-style: normal;
 }
 .amount-of-beets {
   font-style: italic;
@@ -71,6 +74,7 @@ main ol li {
 main dl dt {
   color: #222;
   font-weight: bold;
+  font-style: normal;
 }
 
 footer a{
@@ -79,5 +83,13 @@ footer a{
 }
 
 .purple-roots {
-  font-size: 1.125rem
+  font-size: 1.125rem;
+}
+
+.Jim {
+  font-size: 1.125rem;
+}
+
+aside ul li {
+  font-style: normal;
 }
