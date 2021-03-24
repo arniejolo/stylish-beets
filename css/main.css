@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #c9b5ab;
   font-weight: normal;
-  line-height: 1.4;
+  line-height: 1.5;
   font-family: 'PT Serif', serif;
 }
 
@@ -20,9 +20,15 @@ h1, h2 {
   font-family: 'PT Sans', sans-serif;
 }
 
-nav a {
-  font-family: 'PT Sans', sans-serif;
-  text-decoration: none;
-  color: #8f2440;
+nav {
+  font-size: 1.5rem;
+}
+
+nav ol {
   list-style-type: none;
+}
+nav a {
+  text-decoration: none;
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
 }
