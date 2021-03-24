@@ -40,3 +40,28 @@ nav a:hover {
 img {
   width: 100%;
 }
+
+figcaption {
+  text-align: center;
+  font-style:italic;
+  font-size: 1.5rem;
+}
+
+.germination {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.purple-roots {
+  font-size: 1.125rem;
+}
+
+.weird-habits {
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: left;
+}
+
+main ol {
+  list-style-type: lower-greek;
+}
